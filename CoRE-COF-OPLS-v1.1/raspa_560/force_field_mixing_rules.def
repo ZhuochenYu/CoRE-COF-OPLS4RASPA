@@ -1,0 +1,89 @@
+# general rule for shifted vs truncated. Created by AutoFF and zcyu's script 
+ shift 
+# general rule tail corrections 
+ no 
+# number of defined interactions 
+80 
+# type interaction, parameters. IMPORTANT: define generic matches first 
+opls_719-0    lennard-jones    30.696392    2.85
+opls_719-1    lennard-jones    30.696392    2.85
+opls_719-2    lennard-jones    30.696392    2.85
+opls_719-3    lennard-jones    30.696392    2.85
+opls_719-4    lennard-jones    30.696392    2.85
+opls_719-5    lennard-jones    30.696392    2.85
+opls_719-6    lennard-jones    30.696392    2.85
+opls_719-7    lennard-jones    30.696392    2.85
+opls_719-8    lennard-jones    30.696392    2.85
+opls_719-9    lennard-jones    30.696392    2.85
+opls_719-10    lennard-jones    30.696392    2.85
+opls_719-11    lennard-jones    30.696392    2.85
+opls_281-12    lennard-jones    105.676102    2.96
+opls_281-13    lennard-jones    105.676102    2.96
+opls_281-14    lennard-jones    105.676102    2.96
+opls_281-15    lennard-jones    105.676102    2.96
+opls_281-16    lennard-jones    105.676102    2.96
+opls_281-17    lennard-jones    105.676102    2.96
+opls_238-18    lennard-jones    85.547321    3.25
+opls_238-19    lennard-jones    85.547321    3.25
+opls_238-20    lennard-jones    85.547321    3.25
+opls_238-21    lennard-jones    85.547321    3.25
+opls_238-22    lennard-jones    85.547321    3.25
+opls_238-23    lennard-jones    85.547321    3.25
+opls_280-24    lennard-jones    52.838051    3.75
+opls_280-25    lennard-jones    52.838051    3.75
+opls_280-26    lennard-jones    52.838051    3.75
+opls_280-27    lennard-jones    52.838051    3.75
+opls_280-28    lennard-jones    52.838051    3.75
+opls_280-29    lennard-jones    52.838051    3.75
+opls_700-30    lennard-jones    38.244685    3.55
+opls_700-31    lennard-jones    38.244685    3.55
+opls_700-32    lennard-jones    38.244685    3.55
+opls_700-33    lennard-jones    38.244685    3.55
+opls_700-34    lennard-jones    38.244685    3.55
+opls_700-35    lennard-jones    38.244685    3.55
+opls_142-36    lennard-jones    38.244685    3.55
+opls_142-37    lennard-jones    38.244685    3.55
+opls_142-38    lennard-jones    38.244685    3.55
+opls_142-39    lennard-jones    38.244685    3.55
+opls_142-40    lennard-jones    38.244685    3.55
+opls_142-41    lennard-jones    38.244685    3.55
+opls_916-42    lennard-jones    35.225367    3.55
+opls_916-43    lennard-jones    35.225367    3.55
+opls_916-44    lennard-jones    35.225367    3.55
+opls_916-45    lennard-jones    35.225367    3.55
+opls_916-46    lennard-jones    35.225367    3.55
+opls_916-47    lennard-jones    35.225367    3.55
+opls_727-48    lennard-jones    35.225367    3.55
+opls_727-49    lennard-jones    35.225367    3.55
+opls_727-50    lennard-jones    35.225367    3.55
+opls_727-51    lennard-jones    35.225367    3.55
+opls_727-52    lennard-jones    35.225367    3.55
+opls_727-53    lennard-jones    35.225367    3.55
+opls_727-54    lennard-jones    35.225367    3.55
+opls_727-55    lennard-jones    35.225367    3.55
+opls_727-56    lennard-jones    35.225367    3.55
+opls_727-57    lennard-jones    35.225367    3.55
+opls_727-58    lennard-jones    35.225367    3.55
+opls_727-59    lennard-jones    35.225367    3.55
+opls_910-60    lennard-jones    0    0
+opls_910-61    lennard-jones    0    0
+opls_910-62    lennard-jones    0    0
+opls_910-63    lennard-jones    0    0
+opls_910-64    lennard-jones    0    0
+opls_910-65    lennard-jones    0    0
+opls_144-66    lennard-jones    15.096586    2.42
+opls_144-67    lennard-jones    15.096586    2.42
+opls_144-68    lennard-jones    15.096586    2.42
+opls_144-69    lennard-jones    15.096586    2.42
+opls_144-70    lennard-jones    15.096586    2.42
+opls_144-71    lennard-jones    15.096586    2.42
+opls_143_c2h4  lennard-jones    38.244685    3.550000
+opls_144_c2h4  lennard-jones    15.096586    2.420000
+opls_135_c2h6  lennard-jones    33.212489    3.500000
+opls_140_c2h6  lennard-jones    15.096586    2.500000
+Tra_CH2=  lennard-jones    84.999468    3.675000
+Tra_CH3   lennard-jones    97.999960    3.750000
+Liu_CH2   lennard-jones    93           3.685
+Liu_CH3   lennard-jones    108          3.76
+# general mixing rule for Lennard-Jones 
+ Jorgensen 

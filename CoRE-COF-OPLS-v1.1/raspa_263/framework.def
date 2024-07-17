@@ -1,0 +1,342 @@
+# info 
+0    66    0    0    99    0        144    27    0    0    0    0    0
+# Bond 
+opls_166-0    opls_700-3    HARMONIC_BOND    472020.0711    1.4000
+opls_166-0    opls_700-4    HARMONIC_BOND    472020.0711    1.4000
+opls_166-0    opls_167-42    HARMONIC_BOND    452897.7228    1.3600
+opls_166-1    opls_700-4    HARMONIC_BOND    472020.0711    1.4000
+opls_166-1    opls_700-5    HARMONIC_BOND    472020.0711    1.4000
+opls_166-1    opls_167-43    HARMONIC_BOND    452897.7228    1.3600
+opls_166-2    opls_700-3    HARMONIC_BOND    472020.0711    1.4000
+opls_166-2    opls_700-5    HARMONIC_BOND    472020.0711    1.4000
+opls_166-2    opls_167-44    HARMONIC_BOND    452897.7228    1.3600
+opls_700-3    opls_142-22    HARMONIC_BOND    429749.6169    1.4300
+opls_700-4    opls_142-23    HARMONIC_BOND    429749.6169    1.4300
+opls_700-5    opls_142-21    HARMONIC_BOND    429749.6169    1.4300
+opls_716-6    opls_750-24    HARMONIC_BOND    503219.6920    1.2600
+opls_716-6    opls_750-27    HARMONIC_BOND    503219.6920    1.2600
+opls_716-6    opls_750-33    HARMONIC_BOND    503219.6920    1.2600
+opls_716-7    opls_750-25    HARMONIC_BOND    503219.6920    1.2600
+opls_716-7    opls_750-28    HARMONIC_BOND    503219.6920    1.2600
+opls_716-7    opls_750-34    HARMONIC_BOND    503219.6920    1.2600
+opls_716-8    opls_750-26    HARMONIC_BOND    503219.6920    1.2600
+opls_716-8    opls_750-29    HARMONIC_BOND    503219.6920    1.2600
+opls_716-8    opls_750-35    HARMONIC_BOND    503219.6920    1.2600
+opls_166-9    opls_700-12    HARMONIC_BOND    472020.0711    1.4000
+opls_166-9    opls_700-13    HARMONIC_BOND    472020.0711    1.4000
+opls_166-9    opls_167-41    HARMONIC_BOND    452897.7228    1.3600
+opls_166-10    opls_700-13    HARMONIC_BOND    472020.0711    1.4000
+opls_166-10    opls_700-14    HARMONIC_BOND    472020.0711    1.4000
+opls_166-10    opls_167-39    HARMONIC_BOND    452897.7228    1.3600
+opls_166-11    opls_700-12    HARMONIC_BOND    472020.0711    1.4000
+opls_166-11    opls_700-14    HARMONIC_BOND    472020.0711    1.4000
+opls_166-11    opls_167-40    HARMONIC_BOND    452897.7228    1.3600
+opls_700-12    opls_142-20    HARMONIC_BOND    429749.6169    1.4300
+opls_700-13    opls_142-18    HARMONIC_BOND    429749.6169    1.4300
+opls_700-14    opls_142-19    HARMONIC_BOND    429749.6169    1.4300
+opls_716-15    opls_750-25    HARMONIC_BOND    503219.6920    1.2600
+opls_716-15    opls_238-31    HARMONIC_BOND    429749.6169    1.3800
+opls_716-15    opls_750-36    HARMONIC_BOND    503219.6920    1.2600
+opls_716-16    opls_750-26    HARMONIC_BOND    503219.6920    1.2600
+opls_716-16    opls_238-32    HARMONIC_BOND    429749.6169    1.3800
+opls_716-16    opls_750-37    HARMONIC_BOND    503219.6920    1.2600
+opls_716-17    opls_750-24    HARMONIC_BOND    503219.6920    1.2600
+opls_716-17    opls_238-30    HARMONIC_BOND    429749.6169    1.3800
+opls_716-17    opls_750-38    HARMONIC_BOND    503219.6920    1.2600
+opls_142-18    opls_750-33    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-18    opls_144-48    HARMONIC_BOND    342189.3905    1.0800
+opls_142-19    opls_750-34    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-19    opls_144-49    HARMONIC_BOND    342189.3905    1.0800
+opls_142-20    opls_750-35    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-20    opls_144-50    HARMONIC_BOND    342189.3905    1.0800
+opls_142-21    opls_750-36    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-21    opls_144-54    HARMONIC_BOND    342189.3905    1.0800
+opls_142-22    opls_750-37    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-22    opls_144-55    HARMONIC_BOND    342189.3905    1.0800
+opls_142-23    opls_750-38    HARMONIC_BOND    1367247.9031    1.3400
+opls_142-23    opls_144-56    HARMONIC_BOND    342189.3905    1.0800
+opls_750-27    opls_238-30    HARMONIC_BOND    1579596.5487    1.4000
+opls_750-28    opls_238-31    HARMONIC_BOND    1579596.5487    1.4000
+opls_750-29    opls_238-32    HARMONIC_BOND    1579596.5487    1.4000
+opls_238-30    opls_910-45    HARMONIC_BOND    436794.6926    1.0100
+opls_238-31    opls_910-46    HARMONIC_BOND    436794.6926    1.0100
+opls_238-32    opls_910-47    HARMONIC_BOND    436794.6926    1.0100
+opls_167-39    opls_168-51    HARMONIC_BOND    556560.9793    0.9500
+opls_167-40    opls_168-52    HARMONIC_BOND    556560.9793    0.9500
+opls_167-41    opls_168-53    HARMONIC_BOND    556560.9793    0.9500
+opls_167-42    opls_168-57    HARMONIC_BOND    556560.9793    0.9500
+opls_167-43    opls_168-58    HARMONIC_BOND    556560.9793    0.9500
+opls_167-44    opls_168-59    HARMONIC_BOND    556560.9793    0.9500
+# Bend 
+opls_700-3    opls_166-0    opls_700-4    HARMONIC_BEND    63405.6812    120.0000
+opls_700-3    opls_166-0    opls_167-42    HARMONIC_BEND    70450.7569    120.0000
+opls_700-4    opls_166-0    opls_167-42    HARMONIC_BEND    70450.7569    120.0000
+opls_700-4    opls_166-1    opls_700-5    HARMONIC_BEND    63405.6812    120.0000
+opls_700-4    opls_166-1    opls_167-43    HARMONIC_BEND    70450.7569    120.0000
+opls_700-5    opls_166-1    opls_167-43    HARMONIC_BEND    70450.7569    120.0000
+opls_700-3    opls_166-2    opls_700-5    HARMONIC_BEND    63405.6812    120.0000
+opls_700-3    opls_166-2    opls_167-44    HARMONIC_BEND    70450.7569    120.0000
+opls_700-5    opls_166-2    opls_167-44    HARMONIC_BEND    70450.7569    120.0000
+opls_166-0    opls_700-3    opls_166-2    HARMONIC_BEND    63405.6812    120.0000
+opls_166-0    opls_700-3    opls_142-22    HARMONIC_BEND    70450.7569    124.0000
+opls_166-2    opls_700-3    opls_142-22    HARMONIC_BEND    70450.7569    124.0000
+opls_166-0    opls_700-4    opls_166-1    HARMONIC_BEND    63405.6812    120.0000
+opls_166-0    opls_700-4    opls_142-23    HARMONIC_BEND    70450.7569    124.0000
+opls_166-1    opls_700-4    opls_142-23    HARMONIC_BEND    70450.7569    124.0000
+opls_166-1    opls_700-5    opls_166-2    HARMONIC_BEND    63405.6812    120.0000
+opls_166-1    opls_700-5    opls_142-21    HARMONIC_BEND    70450.7569    124.0000
+opls_166-2    opls_700-5    opls_142-21    HARMONIC_BEND    70450.7569    124.0000
+opls_700-12    opls_166-9    opls_700-13    HARMONIC_BEND    63405.6812    120.0000
+opls_700-12    opls_166-9    opls_167-41    HARMONIC_BEND    70450.7569    120.0000
+opls_700-13    opls_166-9    opls_167-41    HARMONIC_BEND    70450.7569    120.0000
+opls_700-13    opls_166-10    opls_700-14    HARMONIC_BEND    63405.6812    120.0000
+opls_700-13    opls_166-10    opls_167-39    HARMONIC_BEND    70450.7569    120.0000
+opls_700-14    opls_166-10    opls_167-39    HARMONIC_BEND    70450.7569    120.0000
+opls_700-12    opls_166-11    opls_700-14    HARMONIC_BEND    63405.6812    120.0000
+opls_700-12    opls_166-11    opls_167-40    HARMONIC_BEND    70450.7569    120.0000
+opls_700-14    opls_166-11    opls_167-40    HARMONIC_BEND    70450.7569    120.0000
+opls_166-9    opls_700-12    opls_166-11    HARMONIC_BEND    63405.6812    120.0000
+opls_166-9    opls_700-12    opls_142-20    HARMONIC_BEND    70450.7569    124.0000
+opls_166-11    opls_700-12    opls_142-20    HARMONIC_BEND    70450.7569    124.0000
+opls_166-9    opls_700-13    opls_166-10    HARMONIC_BEND    63405.6812    120.0000
+opls_166-9    opls_700-13    opls_142-18    HARMONIC_BEND    70450.7569    124.0000
+opls_166-10    opls_700-13    opls_142-18    HARMONIC_BEND    70450.7569    124.0000
+opls_166-10    opls_700-14    opls_166-11    HARMONIC_BEND    63405.6812    120.0000
+opls_166-10    opls_700-14    opls_142-19    HARMONIC_BEND    70450.7569    124.0000
+opls_166-11    opls_700-14    opls_142-19    HARMONIC_BEND    70450.7569    124.0000
+opls_700-13    opls_142-18    opls_144-48    HARMONIC_BEND    35225.3784    123.3000
+opls_700-14    opls_142-19    opls_144-49    HARMONIC_BEND    35225.3784    123.3000
+opls_700-12    opls_142-20    opls_144-50    HARMONIC_BEND    35225.3784    123.3000
+opls_700-5    opls_142-21    opls_144-54    HARMONIC_BEND    35225.3784    123.3000
+opls_700-3    opls_142-22    opls_144-55    HARMONIC_BEND    35225.3784    123.3000
+opls_700-4    opls_142-23    opls_144-56    HARMONIC_BEND    35225.3784    123.3000
+opls_716-17    opls_238-30    opls_910-45    HARMONIC_BEND    35225.3784    119.8000
+opls_716-15    opls_238-31    opls_910-46    HARMONIC_BEND    35225.3784    119.8000
+opls_716-16    opls_238-32    opls_910-47    HARMONIC_BEND    35225.3784    119.8000
+opls_166-10    opls_167-39    opls_168-51    HARMONIC_BEND    35225.3784    113.0000
+opls_166-11    opls_167-40    opls_168-52    HARMONIC_BEND    35225.3784    113.0000
+opls_166-9    opls_167-41    opls_168-53    HARMONIC_BEND    35225.3784    113.0000
+opls_166-0    opls_167-42    opls_168-57    HARMONIC_BEND    35225.3784    113.0000
+opls_166-1    opls_167-43    opls_168-58    HARMONIC_BEND    35225.3784    113.0000
+opls_166-2    opls_167-44    opls_168-59    HARMONIC_BEND    35225.3784    113.0000
+opls_750-24    opls_716-6    opls_750-27    HARMONIC_BEND    210324.1956    113.0000
+opls_750-27    opls_716-6    opls_750-33    HARMONIC_BEND    141439.8550    125.9900
+opls_750-25    opls_716-7    opls_750-28    HARMONIC_BEND    210324.1956    113.0000
+opls_750-28    opls_716-7    opls_750-34    HARMONIC_BEND    141439.8550    125.9900
+opls_750-26    opls_716-8    opls_750-29    HARMONIC_BEND    210324.1956    113.0000
+opls_750-29    opls_716-8    opls_750-35    HARMONIC_BEND    141439.8550    125.9900
+opls_750-25    opls_716-15    opls_238-31    HARMONIC_BEND    213954.4289    108.0500
+opls_750-25    opls_716-15    opls_750-36    HARMONIC_BEND    131461.1746    123.9900
+opls_238-31    opls_716-15    opls_750-36    HARMONIC_BEND    144319.2472    127.9300
+opls_750-26    opls_716-16    opls_238-32    HARMONIC_BEND    213954.4289    108.0500
+opls_750-26    opls_716-16    opls_750-37    HARMONIC_BEND    131461.1746    123.9900
+opls_238-32    opls_716-16    opls_750-37    HARMONIC_BEND    144319.2472    127.9300
+opls_750-24    opls_716-17    opls_238-30    HARMONIC_BEND    213954.4289    108.0500
+opls_750-24    opls_716-17    opls_750-38    HARMONIC_BEND    131461.1746    123.9900
+opls_238-30    opls_716-17    opls_750-38    HARMONIC_BEND    144319.2472    127.9300
+opls_750-33    opls_142-18    opls_144-48    HARMONIC_BEND    92582.8995    113.0000
+opls_750-34    opls_142-19    opls_144-49    HARMONIC_BEND    92582.8995    113.0000
+opls_750-35    opls_142-20    opls_144-50    HARMONIC_BEND    92582.8995    113.0000
+opls_716-6    opls_750-24    opls_716-17    HARMONIC_BEND    137227.2105    102.0000
+opls_716-7    opls_750-25    opls_716-15    HARMONIC_BEND    137227.2105    102.0000
+opls_716-8    opls_750-26    opls_716-16    HARMONIC_BEND    137227.2105    102.0000
+opls_716-6    opls_750-27    opls_238-30    HARMONIC_BEND    187082.3029    105.9600
+opls_716-7    opls_750-28    opls_238-31    HARMONIC_BEND    187082.3029    105.9600
+opls_716-8    opls_750-29    opls_238-32    HARMONIC_BEND    187082.3029    105.9600
+opls_716-17    opls_238-30    opls_750-27    HARMONIC_BEND    174766.6979    110.9800
+opls_750-27    opls_238-30    opls_910-45    HARMONIC_BEND    63421.4296    125.9900
+opls_716-15    opls_238-31    opls_750-28    HARMONIC_BEND    174766.6979    110.9800
+opls_750-28    opls_238-31    opls_910-46    HARMONIC_BEND    63421.4296    125.9900
+opls_716-16    opls_238-32    opls_750-29    HARMONIC_BEND    174766.6979    110.9800
+opls_750-29    opls_238-32    opls_910-47    HARMONIC_BEND    63421.4296    125.9900
+opls_716-6    opls_750-33    opls_142-18    HARMONIC_BEND    89092.0083    125.9900
+opls_716-7    opls_750-34    opls_142-19    HARMONIC_BEND    89092.0083    125.9900
+opls_716-8    opls_750-35    opls_142-20    HARMONIC_BEND    89092.0083    125.9900
+opls_716-15    opls_750-36    opls_142-21    HARMONIC_BEND    95922.6289    120.0500
+opls_716-16    opls_750-37    opls_142-22    HARMONIC_BEND    95922.6289    120.0500
+opls_716-17    opls_750-38    opls_142-23    HARMONIC_BEND    95922.6289    120.0500
+opls_750-24    opls_716-6    opls_750-33    HARMONIC_BEND    216719.8791    120.0000
+opls_750-25    opls_716-7    opls_750-34    HARMONIC_BEND    216719.8791    120.0000
+opls_750-26    opls_716-8    opls_750-35    HARMONIC_BEND    216719.8791    120.0000
+opls_700-13    opls_142-18    opls_750-33    HARMONIC_BEND    151636.8194    120.0000
+opls_700-14    opls_142-19    opls_750-34    HARMONIC_BEND    151636.8194    120.0000
+opls_700-12    opls_142-20    opls_750-35    HARMONIC_BEND    151636.8194    120.0000
+opls_700-5    opls_142-21    opls_750-36    HARMONIC_BEND    183842.8696    120.0000
+opls_750-36    opls_142-21    opls_144-54    HARMONIC_BEND    97289.1098    120.0000
+opls_700-3    opls_142-22    opls_750-37    HARMONIC_BEND    183842.8696    120.0000
+opls_750-37    opls_142-22    opls_144-55    HARMONIC_BEND    97289.1098    120.0000
+opls_700-4    opls_142-23    opls_750-38    HARMONIC_BEND    183842.8696    120.0000
+opls_750-38    opls_142-23    opls_144-56    HARMONIC_BEND    97289.1098    120.0000
+# Torsion 
+opls_700-3    opls_166-0    opls_700-4    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-4    opls_166-0    opls_700-3    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-42    opls_166-0    opls_700-3    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-42    opls_166-0    opls_700-3    opls_142-22    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-42    opls_166-0    opls_700-4    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-42    opls_166-0    opls_700-4    opls_142-23    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-4    opls_166-1    opls_700-5    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-5    opls_166-1    opls_700-4    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-43    opls_166-1    opls_700-4    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-43    opls_166-1    opls_700-4    opls_142-23    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-43    opls_166-1    opls_700-5    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-43    opls_166-1    opls_700-5    opls_142-21    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-3    opls_166-2    opls_700-5    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-5    opls_166-2    opls_700-3    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-44    opls_166-2    opls_700-3    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-44    opls_166-2    opls_700-3    opls_142-22    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-44    opls_166-2    opls_700-5    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-44    opls_166-2    opls_700-5    opls_142-21    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-22    opls_700-3    opls_166-0    opls_700-4    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-22    opls_700-3    opls_166-2    opls_700-5    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-23    opls_700-4    opls_166-0    opls_700-3    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-23    opls_700-4    opls_166-1    opls_700-5    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-21    opls_700-5    opls_166-1    opls_700-4    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-21    opls_700-5    opls_166-2    opls_700-3    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-12    opls_166-9    opls_700-13    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-13    opls_166-9    opls_700-12    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-41    opls_166-9    opls_700-12    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-41    opls_166-9    opls_700-12    opls_142-20    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-41    opls_166-9    opls_700-13    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-41    opls_166-9    opls_700-13    opls_142-18    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-13    opls_166-10    opls_700-14    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-14    opls_166-10    opls_700-13    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-39    opls_166-10    opls_700-13    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-39    opls_166-10    opls_700-13    opls_142-18    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-39    opls_166-10    opls_700-14    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-39    opls_166-10    opls_700-14    opls_142-19    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-12    opls_166-11    opls_700-14    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_700-14    opls_166-11    opls_700-12    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-40    opls_166-11    opls_700-12    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-40    opls_166-11    opls_700-12    opls_142-20    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-40    opls_166-11    opls_700-14    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_167-40    opls_166-11    opls_700-14    opls_142-19    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-20    opls_700-12    opls_166-9    opls_700-13    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-20    opls_700-12    opls_166-11    opls_700-14    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-18    opls_700-13    opls_166-9    opls_700-12    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-18    opls_700-13    opls_166-10    opls_700-14    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-19    opls_700-14    opls_166-10    opls_700-13    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_142-19    opls_700-14    opls_166-11    opls_700-12    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-33    opls_142-18    opls_700-13    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-33    opls_142-18    opls_700-13    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-48    opls_142-18    opls_700-13    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-48    opls_142-18    opls_700-13    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-34    opls_142-19    opls_700-14    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-34    opls_142-19    opls_700-14    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-49    opls_142-19    opls_700-14    opls_166-10    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-49    opls_142-19    opls_700-14    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-35    opls_142-20    opls_700-12    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-35    opls_142-20    opls_700-12    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-50    opls_142-20    opls_700-12    opls_166-9    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-50    opls_142-20    opls_700-12    opls_166-11    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-36    opls_142-21    opls_700-5    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-36    opls_142-21    opls_700-5    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-54    opls_142-21    opls_700-5    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-54    opls_142-21    opls_700-5    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-37    opls_142-22    opls_700-3    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-37    opls_142-22    opls_700-3    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-55    opls_142-22    opls_700-3    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-55    opls_142-22    opls_700-3    opls_166-2    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-38    opls_142-23    opls_700-4    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_750-38    opls_142-23    opls_700-4    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-56    opls_142-23    opls_700-4    opls_166-0    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_144-56    opls_142-23    opls_700-4    opls_166-1    SIX_COSINE_IMPROPER_DIHEDRAL    3648.3416    0.0000    -3648.3416    0.0000    0.0000    0.0000
+opls_168-51    opls_167-39    opls_166-10    opls_700-13    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-51    opls_167-39    opls_166-10    opls_700-14    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-52    opls_167-40    opls_166-11    opls_700-12    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-52    opls_167-40    opls_166-11    opls_700-14    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-53    opls_167-41    opls_166-9    opls_700-12    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-53    opls_167-41    opls_166-9    opls_700-13    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-57    opls_167-42    opls_166-0    opls_700-3    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-57    opls_167-42    opls_166-0    opls_700-4    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-58    opls_167-43    opls_166-1    opls_700-4    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-58    opls_167-43    opls_166-1    opls_700-5    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-59    opls_167-44    opls_166-2    opls_700-3    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_168-59    opls_167-44    opls_166-2    opls_700-5    SIX_COSINE_IMPROPER_DIHEDRAL    846.3566    0.0000    -846.3566    0.0000    0.0000    0.0000
+opls_750-24    opls_716-6    opls_750-33    opls_142-18    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-27    opls_716-6    opls_750-24    opls_716-17    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-27    opls_716-6    opls_750-33    opls_142-18    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-33    opls_716-6    opls_750-24    opls_716-17    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-33    opls_716-6    opls_750-27    opls_238-30    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-25    opls_716-7    opls_750-34    opls_142-19    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-28    opls_716-7    opls_750-25    opls_716-15    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-28    opls_716-7    opls_750-34    opls_142-19    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-34    opls_716-7    opls_750-25    opls_716-15    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-34    opls_716-7    opls_750-28    opls_238-31    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-26    opls_716-8    opls_750-35    opls_142-20    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-29    opls_716-8    opls_750-26    opls_716-16    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-29    opls_716-8    opls_750-35    opls_142-20    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-35    opls_716-8    opls_750-26    opls_716-16    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-35    opls_716-8    opls_750-29    opls_238-32    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-25    opls_716-15    opls_750-36    opls_142-21    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-31    opls_716-15    opls_750-25    opls_716-7    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-31    opls_716-15    opls_750-36    opls_142-21    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-36    opls_716-15    opls_750-25    opls_716-7    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-36    opls_716-15    opls_238-31    opls_750-28    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_750-26    opls_716-16    opls_750-37    opls_142-22    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-32    opls_716-16    opls_750-26    opls_716-8    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-32    opls_716-16    opls_750-37    opls_142-22    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-37    opls_716-16    opls_750-26    opls_716-8    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-37    opls_716-16    opls_238-32    opls_750-29    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_750-24    opls_716-17    opls_750-38    opls_142-23    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-30    opls_716-17    opls_750-24    opls_716-6    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-30    opls_716-17    opls_750-38    opls_142-23    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-38    opls_716-17    opls_750-24    opls_716-6    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_750-38    opls_716-17    opls_238-30    opls_750-27    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_700-13    opls_142-18    opls_750-33    opls_716-6    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-48    opls_142-18    opls_750-33    opls_716-6    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_700-14    opls_142-19    opls_750-34    opls_716-7    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-49    opls_142-19    opls_750-34    opls_716-7    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_700-12    opls_142-20    opls_750-35    opls_716-8    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-50    opls_142-20    opls_750-35    opls_716-8    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-54    opls_142-21    opls_750-36    opls_716-15    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-55    opls_142-22    opls_750-37    opls_716-16    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_144-56    opls_142-23    opls_750-38    opls_716-17    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-30    opls_750-27    opls_716-6    opls_750-24    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-31    opls_750-28    opls_716-7    opls_750-25    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_238-32    opls_750-29    opls_716-8    opls_750-26    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_716-17    opls_238-30    opls_750-27    opls_716-6    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_750-27    opls_238-30    opls_716-17    opls_750-24    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-45    opls_238-30    opls_716-17    opls_750-24    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-45    opls_238-30    opls_716-17    opls_750-38    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-45    opls_238-30    opls_750-27    opls_716-6    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_716-15    opls_238-31    opls_750-28    opls_716-7    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_750-28    opls_238-31    opls_716-15    opls_750-25    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-46    opls_238-31    opls_716-15    opls_750-25    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-46    opls_238-31    opls_716-15    opls_750-36    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-46    opls_238-31    opls_750-28    opls_716-7    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_716-16    opls_238-32    opls_750-29    opls_716-8    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_750-29    opls_238-32    opls_716-16    opls_750-26    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-47    opls_238-32    opls_716-16    opls_750-26    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-47    opls_238-32    opls_716-16    opls_750-37    CVFF_DIHEDRAL    125.8049    6.0000    180.0000
+opls_910-47    opls_238-32    opls_750-29    opls_716-8    CVFF_DIHEDRAL    251.6098    6.0000    180.0000
+opls_716-15    opls_750-36    opls_142-21    opls_700-5    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_716-16    opls_750-37    opls_142-22    opls_700-3    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+opls_716-17    opls_750-38    opls_142-23    opls_700-4    CVFF_DIHEDRAL    31098.9431    2.0000    180.0000
+# ImpTorsion 
+opls_166-0    opls_700-3    opls_700-4    opls_167-42    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_166-1    opls_700-4    opls_700-5    opls_167-43    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_166-2    opls_700-3    opls_700-5    opls_167-44    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-3    opls_166-0    opls_166-2    opls_142-22    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-4    opls_166-0    opls_166-1    opls_142-23    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-5    opls_166-1    opls_166-2    opls_142-21    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-6    opls_750-24    opls_750-27    opls_750-33    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-7    opls_750-25    opls_750-28    opls_750-34    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-8    opls_750-26    opls_750-29    opls_750-35    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_166-9    opls_700-12    opls_700-13    opls_167-41    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_166-10    opls_700-13    opls_700-14    opls_167-39    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_166-11    opls_700-12    opls_700-14    opls_167-40    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-12    opls_166-9    opls_166-11    opls_142-20    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-13    opls_166-9    opls_166-10    opls_142-18    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_700-14    opls_166-10    opls_166-11    opls_142-19    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-15    opls_750-25    opls_238-31    opls_750-36    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-16    opls_750-26    opls_238-32    opls_750-37    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_716-17    opls_750-24    opls_238-30    opls_750-38    CVFF_IMPROPER_DIHERAL    553.4934    2.0000    180.0000
+opls_142-18    opls_700-13    opls_750-33    opls_144-48    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_142-19    opls_700-14    opls_750-34    opls_144-49    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_142-20    opls_700-12    opls_750-35    opls_144-50    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_142-21    opls_700-5    opls_750-36    opls_144-54    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_142-22    opls_700-3    opls_750-37    opls_144-55    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_142-23    opls_700-4    opls_750-38    opls_144-56    CVFF_IMPROPER_DIHERAL    7548.2930    2.0000    180.0000
+opls_238-30    opls_716-17    opls_750-27    opls_910-45    CVFF_IMPROPER_DIHERAL    503.2195    2.0000    180.0000
+opls_238-31    opls_716-15    opls_750-28    opls_910-46    CVFF_IMPROPER_DIHERAL    503.2195    2.0000    180.0000
+opls_238-32    opls_716-16    opls_750-29    opls_910-47    CVFF_IMPROPER_DIHERAL    503.2195    2.0000    180.0000

@@ -1,0 +1,26 @@
+#number of pseudo atoms. Created by AutoFF and zcyu's script
+23 
+# type print as scat oxidation mass charge polarization B-factor radii connectivity anisotropic anisotropic-type tinker-type 
+opls_700-0    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_523-1    yes    C    C    0    12.011    -0.0789    0    1    1    0    0    relative    0
+opls_531-2    yes    C    C    0    12.011    0.3842    0    1    1    0    0    relative    0
+opls_700-3    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_523-4    yes    C    C    0    12.011    -0.0789    0    1    1    0    0    relative    0
+opls_531-5    yes    C    C    0    12.011    0.3842    0    1    1    0    0    relative    0
+opls_700-6    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_523-7    yes    C    C    0    12.011    -0.0789    0    1    1    0    0    relative    0
+opls_531-8    yes    C    C    0    12.011    0.3842    0    1    1    0    0    relative    0
+opls_526-9    yes    H    H    0    1.008    0.0461    0    1    1    0    0    relative    0
+opls_526-10    yes    H    H    0    1.008    0.0461    0    1    1    0    0    relative    0
+opls_526-11    yes    H    H    0    1.008    0.0461    0    1    1    0    0    relative    0
+opls_520-12    yes    N    N    0    14.0067    -0.3104    0    1    1    0    0    relative    0
+opls_520-13    yes    N    N    0    14.0067    -0.3104    0    1    1    0    0    relative    0
+opls_520-14    yes    N    N    0    14.0067    -0.3104    0    1    1    0    0    relative    0
+opls_135_c2h6 yes C   C   0   12.011    -0.4158  0.0 1.0 1.0 0 0.0   relative 0
+opls_140_c2h6 yes H   H   0   1.008      0.1386  0.0 1.0 1.0 0 0.0   relative 0
+opls_143_c2h4 yes C   C   0   12.011    -0.318 0.0 1.0 1.0 0 0.0     relative 0
+opls_144_c2h4 yes H   H   0   1.008      0.159 0.0 1.0 1.0 0 0.0     relative 0
+Tra_CH3       yes CH3 CH3 0   15.035     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Liu_CH2      yes CH2 CH2 0   14.027     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Liu_CH3       yes CH3 CH3 0   15.035     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Tra_CH2=      yes CH2 CH2 0   14.027     0.000 0.0 1.0 1.0 0 0.0     relative 0

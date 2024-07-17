@@ -1,0 +1,40 @@
+#number of pseudo atoms. Created by AutoFF and zcyu's script
+37 
+# type print as scat oxidation mass charge polarization B-factor radii connectivity anisotropic anisotropic-type tinker-type 
+opls_281-0    yes    O    O    0    15.9994    -0.362    0    1    1    0    0    relative    0
+opls_281-1    yes    O    O    0    15.9994    -0.362    0    1    1    0    0    relative    0
+opls_281-2    yes    O    O    0    15.9994    -0.362    0    1    1    0    0    relative    0
+opls_280-3    yes    C    C    0    12.011    0.2    0    1    1    0    0    relative    0
+opls_700-4    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_280-5    yes    C    C    0    12.011    0.2    0    1    1    0    0    relative    0
+opls_700-6    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_142-7    yes    C    C    0    12.011    0.0646    0    1    1    0    0    relative    0
+opls_280-8    yes    C    C    0    12.011    0.2    0    1    1    0    0    relative    0
+opls_700-9    yes    C    C    0    12.011    0.0262    0    1    1    0    0    relative    0
+opls_142-10    yes    C    C    0    12.011    0.0646    0    1    1    0    0    relative    0
+opls_142-11    yes    C    C    0    12.011    0.0646    0    1    1    0    0    relative    0
+opls_141-12    yes    C    C    0    12.011    -0.0208    0    1    1    0    0    relative    0
+opls_238-13    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_238-14    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_238-15    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_238-16    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_238-17    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_238-18    yes    N    N    0    14.0067    -0.3357    0    1    1    0    0    relative    0
+opls_144-19    yes    H    H    0    1.008    0.1093    0    1    1    0    0    relative    0
+opls_910-20    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_910-21    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_910-22    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_910-23    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_144-24    yes    H    H    0    1.008    0.1093    0    1    1    0    0    relative    0
+opls_144-25    yes    H    H    0    1.008    0.1093    0    1    1    0    0    relative    0
+opls_910-26    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_910-27    yes    H    H    0    1.008    0.2722    0    1    1    0    0    relative    0
+opls_402-28    yes    Br    Br    0    79.904    0.2353    0    1    1    0    0    relative    0
+opls_135_c2h6 yes C   C   0   12.011    -0.4158  0.0 1.0 1.0 0 0.0   relative 0
+opls_140_c2h6 yes H   H   0   1.008      0.1386  0.0 1.0 1.0 0 0.0   relative 0
+opls_143_c2h4 yes C   C   0   12.011    -0.318 0.0 1.0 1.0 0 0.0     relative 0
+opls_144_c2h4 yes H   H   0   1.008      0.159 0.0 1.0 1.0 0 0.0     relative 0
+Tra_CH3       yes CH3 CH3 0   15.035     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Liu_CH2      yes CH2 CH2 0   14.027     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Liu_CH3       yes CH3 CH3 0   15.035     0.000 0.0 1.0 1.0 0 0.0     relative 0
+Tra_CH2=      yes CH2 CH2 0   14.027     0.000 0.0 1.0 1.0 0 0.0     relative 0

@@ -1,0 +1,141 @@
+# critical constants: Temperature [T], Pressure [Pa], and Acentric factor [-]. Created by AutoFF
+0.0
+0.0
+0.0
+#Number Of Atoms
+15
+#Number Of Group
+1
+# 183-group
+flexible
+#number of atoms
+15
+# atomic positions
+0      opls_700    -1.210600    3.515720    1.650000
+1      opls_523    -1.204030    4.909840    1.650000
+2      opls_531     2.476340    2.784900    1.650000
+3      opls_700     1.210600    3.515720    1.650000
+4      opls_523    -0.000040    2.824350    1.650000
+5      opls_531     3.650040    0.752130    1.650000
+6      opls_700     0.000000    5.612530    1.650000
+7      opls_523     1.204060    4.909780    1.650000
+8      opls_531     4.823620    2.784960    1.650000
+9      opls_526    -2.141860    5.451260    1.650000
+10     opls_526     0.000000    1.741450    1.650000
+11     opls_526     2.141860    5.451260    1.650000
+12     opls_520     2.480720    1.432250    1.650000
+13     opls_520     4.819310    1.432180    1.650000
+14     opls_520     3.650040    3.457560    1.650000
+# Chiralcenters Bond BondDipoles Bend UrayBradley InvBend Torsion Imp.Torsion Bond/Bond Stretch/Bend Bend/Bend Stretch/Torsion Bend/Torsion IntraVDW IntraCoulomb
+0  18  0  30  0  0  48  9  0  0  0  0  0  0
+# Bond stretch: atom n1-n2, type, parameters
+0     1     HARMONIC_BOND   472020.0711      1.4000
+0     4     HARMONIC_BOND   472020.0711      1.4000
+0     8     HARMONIC_BOND   472020.0711      1.4000
+1     6     HARMONIC_BOND   472020.0711      1.4000
+1     9     HARMONIC_BOND   369363.2539      1.0800
+2     3     HARMONIC_BOND   472020.0711      1.4000
+2     12    HARMONIC_BOND   505232.5707      1.3200
+2     14    HARMONIC_BOND   505232.5707      1.3200
+3     4     HARMONIC_BOND   472020.0711      1.4000
+3     7     HARMONIC_BOND   472020.0711      1.4000
+4     10    HARMONIC_BOND   369363.2539      1.0800
+5     6     HARMONIC_BOND   472020.0711      1.4000
+5     12    HARMONIC_BOND   505232.5707      1.3200
+5     13    HARMONIC_BOND   505232.5707      1.3200
+6     7     HARMONIC_BOND   472020.0711      1.4000
+7     11    HARMONIC_BOND   369363.2539      1.0800
+8     13    HARMONIC_BOND   505232.5707      1.3200
+8     14    HARMONIC_BOND   505232.5707      1.3200
+# Bond bending: atom n1-n2-n3, type, parameters
+1     0     4     HARMONIC_BEND    63405.6812    120.0000
+1     0     8     HARMONIC_BEND    63405.6812    120.0000
+4     0     8     HARMONIC_BEND    63405.6812    120.0000
+0     1     6     HARMONIC_BEND    63405.6812    120.0000
+0     1     9     HARMONIC_BEND    35225.3784    120.0000
+6     1     9     HARMONIC_BEND    35225.3784    120.0000
+3     2     12    HARMONIC_BEND    70450.7569    124.0000
+3     2     14    HARMONIC_BEND    70450.7569    124.0000
+12    2     14    HARMONIC_BEND    70450.7569    129.1000
+2     3     4     HARMONIC_BEND    63405.6812    120.0000
+2     3     7     HARMONIC_BEND    63405.6812    120.0000
+4     3     7     HARMONIC_BEND    63405.6812    120.0000
+0     4     3     HARMONIC_BEND    63405.6812    120.0000
+0     4     10    HARMONIC_BEND    35225.3784    120.0000
+3     4     10    HARMONIC_BEND    35225.3784    120.0000
+6     5     12    HARMONIC_BEND    70450.7569    124.0000
+6     5     13    HARMONIC_BEND    70450.7569    124.0000
+12    5     13    HARMONIC_BEND    70450.7569    129.1000
+1     6     5     HARMONIC_BEND    63405.6812    120.0000
+1     6     7     HARMONIC_BEND    63405.6812    120.0000
+5     6     7     HARMONIC_BEND    63405.6812    120.0000
+3     7     6     HARMONIC_BEND    63405.6812    120.0000
+3     7     11    HARMONIC_BEND    35225.3784    120.0000
+6     7     11    HARMONIC_BEND    35225.3784    120.0000
+0     8     13    HARMONIC_BEND    70450.7569    124.0000
+0     8     14    HARMONIC_BEND    70450.7569    124.0000
+13    8     14    HARMONIC_BEND    70450.7569    129.1000
+2     12    5     HARMONIC_BEND    70450.7569    118.6000
+5     13    8     HARMONIC_BEND    70450.7569    118.6000
+2     14    8     HARMONIC_BEND    70450.7569    118.6000
+# Torsion n1-n2-n3-n4 type
+8     0     1     6     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+8     0     4     3     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+6     1     0     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+9     1     0     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+9     1     0     8     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+9     1     6     5     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+9     1     6     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    2     3     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    2     3     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    2     14    8     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    2     3     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    2     3     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    2     12    5     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+2     3     4     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+7     3     4     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+3     4     0     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+10    4     0     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+10    4     0     8     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+10    4     3     2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+10    4     3     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+6     5     12    2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    5     6     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    5     6     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+12    5     13    8     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    5     6     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    5     6     7     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    5     12    2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+5     6     1     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+5     6     7     3     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+7     6     1     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+3     7     6     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+6     7     3     2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+6     7     3     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+11    7     3     2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+11    7     3     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+11    7     6     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+11    7     6     5     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    8     0     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    8     0     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+13    8     14    2     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    8     0     1     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    8     0     4     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+14    8     13    5     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+5     12    2     3     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+5     13    8     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+8     13    5     6     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+2     14    8     0     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+8     14    2     3     SIX_COSINE_IMPROPER_DIHEDRAL     3648.3416      0.0000  -3648.3416      0.0000      0.0000      0.0000
+# improper torsion atom n1-n2-n3-n4
+0     1     4     8     CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+1     0     6     9     CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+2     3     12    14    CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+3     2     4     7     CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+4     0     3     10    CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+5     6     12    13    CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+6     1     5     7     CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+7     3     6     11    CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+8     0     13    14    CVFF_IMPROPER_DIHERAL     553.4934      2.0000    180.0000
+# Number of config moves
+0

@@ -1,0 +1,35 @@
+# general rule for shifted vs truncated. Created by AutoFF and zcyu's script 
+ shift 
+# general rule tail corrections 
+ no 
+# number of defined interactions 
+26 
+# type interaction, parameters. IMPORTANT: define generic matches first 
+opls_521-0    lennard-jones    35.225367    3.55
+opls_521-1    lennard-jones    35.225367    3.55
+opls_521-2    lennard-jones    35.225367    3.55
+opls_521-3    lennard-jones    35.225367    3.55
+opls_521-4    lennard-jones    35.225367    3.55
+opls_521-5    lennard-jones    35.225367    3.55
+opls_521-6    lennard-jones    35.225367    3.55
+opls_521-7    lennard-jones    35.225367    3.55
+opls_521-8    lennard-jones    35.225367    3.55
+opls_521-9    lennard-jones    35.225367    3.55
+opls_521-10    lennard-jones    35.225367    3.55
+opls_521-11    lennard-jones    35.225367    3.55
+opls_520-12    lennard-jones    85.547321    3.25
+opls_520-13    lennard-jones    85.547321    3.25
+opls_520-14    lennard-jones    85.547321    3.25
+opls_520-15    lennard-jones    85.547321    3.25
+opls_520-16    lennard-jones    85.547321    3.25
+opls_520-17    lennard-jones    85.547321    3.25
+opls_143_c2h4  lennard-jones    38.244685    3.550000
+opls_144_c2h4  lennard-jones    15.096586    2.420000
+opls_135_c2h6  lennard-jones    33.212489    3.500000
+opls_140_c2h6  lennard-jones    15.096586    2.500000
+Tra_CH2=  lennard-jones    84.999468    3.675000
+Tra_CH3   lennard-jones    97.999960    3.750000
+Liu_CH2   lennard-jones    93           3.685
+Liu_CH3   lennard-jones    108          3.76
+# general mixing rule for Lennard-Jones 
+ Jorgensen 
